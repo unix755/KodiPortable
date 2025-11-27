@@ -2,7 +2,7 @@
 Kodi Desktop Portable is a portable version of the [Kodi](https://github.com/xbmc/xbmc)
 
 ## Download
-All downloads available in the [Releases](https://github.com/gek64/KodiPortable/releases)
+All downloads available in the [Releases](https://github.com/unix755/KodiPortable/releases)
 
 ## Features
 * Run the full Kodi application.
@@ -19,5 +19,5 @@ All downloads available in the [Releases](https://github.com/gek64/KodiPortable/
 * [PortableApps.com Installer](https://portableapps.com/apps/development/portableapps.com_installer)
 
 ## License
-* Portable application code released under [the MIT license](https://github.com/gek64/KodiPortable/raw/main/LICENSE).
+* Portable application code released under [the MIT license](https://github.com/unix755/KodiPortable/raw/main/LICENSE).
 * The Kodi [License](https://github.com/xbmc/xbmc/blob/master/LICENSE.md).
